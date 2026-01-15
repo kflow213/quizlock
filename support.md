@@ -9,8 +9,7 @@ QuizLock をご利用いただきありがとうございます。
 
 不具合の報告やご質問がある場合は、以下のメールアドレスまでご連絡ください。
 
-Email: example@example.com  
-※ 実際に受信可能なメールアドレスに変更してください。
+Email: kflow0213@gmail.com 
 
 ---
 
@@ -33,7 +32,7 @@ A.
 ## 法的情報
 
 - プライバシーポリシー  
-  https://example.com/privacy
+  https://github.com/kflow213/quizlock/edit/main/support/privacy.md
 
 - 利用規約（Terms of Use / EULA）  
-  https://example.com/terms
+  [https://example.com](https://github.com/kflow213/quizlock/edit/main/support/terms.md
