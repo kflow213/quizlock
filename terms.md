@@ -44,4 +44,4 @@
 
 本規約に関するお問い合わせは、以下までご連絡ください。
 
-Email: example@example.com
+Email: kflow0213@gmail.com
